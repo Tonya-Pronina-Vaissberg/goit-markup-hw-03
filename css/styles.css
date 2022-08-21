@@ -89,10 +89,14 @@ body {
 color: rgba(0, 0, 0, 1);
 }
 
+.contact-list {
+    display: flex; 
+    margin-left: auto;
+}
+
 .menu-list {
     display: flex;
     margin-left: 93px;
-    
 }
 
 
@@ -366,7 +370,7 @@ line-height: 1.2;
     color: rgba(255, 255, 255, 1);
 }
 
-.contact-list {
+.footer-nav {
     margin-top: 20px;
 }
 
